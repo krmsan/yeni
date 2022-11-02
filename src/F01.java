@@ -1,0 +1,2 @@
+public class F01 {
+}
